@@ -47,11 +47,10 @@ Without a robust analytics system:
 
 ## 📷 Dashboard Screenshots
 
-### Overview Page
+### Summary Page
 ![Summary Page](bank_db1.png)
 
---- 
-
+### Overview Page
 ![Overview Page](bank_db2.png)
 
 ---
