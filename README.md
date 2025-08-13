@@ -49,6 +49,9 @@ Without a robust analytics system:
 
 ### Overview Page
 ![Summary Page](bank_db1.png)
+
+--- 
+
 ![Overview Page](bank_db2.png)
 
 ---
