@@ -48,10 +48,8 @@ Without a robust analytics system:
 ## 📷 Dashboard Screenshots
 
 ### Overview Page
-![Overview Page](bank_db1.png)(bankdb2.png)
-
-### Summary Page
-![Summary Page](47eea42a-ec35-4dc8-9675-4ae68d21a7af.png)
+![Summary Page](bank_db1.png)
+![Overview Page](bank_db2.png)
 
 ---
 
