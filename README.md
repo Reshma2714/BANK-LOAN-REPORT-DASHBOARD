@@ -1,4 +1,4 @@
-# 📊 Bank Loan Report Dashboard (Power BI)
+# 📊 Bank Loan Report Dashboard (SQL, Power BI)
 
 ## 📌 Overview
 This project is a **Bank Loan Report Dashboard** built in **Power BI** to analyze loan application trends, funding amounts, and borrower characteristics.  
